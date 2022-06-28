@@ -1,4 +1,4 @@
 ---
 env:
-  RELEASES: "bar-v2.0.0+en.zip,foo-v1.1.0.zip"
+  RELEASES: "bar-v2.1.1+en.zip,foo-v1.1.0.zip"
 
